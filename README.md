@@ -5,13 +5,12 @@
 
 **Nombre:** Pamela Juana Huacca Arce  
 **Cédula:** ce811762  
-**Programa:** Bioingeniería
+**Programa:** Bioingeniería  
 
-**Nombre:**  Luis Alberto Contreras Dales
-**Cédula:**  1102846541
-**Programa:**  Ingeniería de materiales
+**Nombre:** Luis Alberto Contreras Dales  
+**Cédula:** 1102846541  
+**Programa:** Ingeniería de materiales  
 
-
-**Nombre:**  José Ángel Hernández Cardona 
-**Cédula:**  1000566492
-**Programa:**  Ingeniería civil
+**Nombre:** José Ángel Hernández Cardona  
+**Cédula:** 1000566492  
+**Programa:** Ingeniería civil
