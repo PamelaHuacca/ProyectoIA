@@ -14,3 +14,10 @@
 **Nombre:** José Ángel Hernández Cardona  
 **Cédula:** 1000566492  
 **Programa:** Ingeniería civil
+
+#Segunda entrega:
+
+## Enlace al video del proyecto
+
+[Ver video en YouTube](https://youtu.be/lTnYV23ifVk)
+
