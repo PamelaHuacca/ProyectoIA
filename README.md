@@ -15,9 +15,16 @@
 **Cédula:** 1000566492  
 **Programa:** Ingeniería civil
 
-#Segunda entrega:
+#Segunda entrega-preprocesamiento:
 
-## Enlace al video del proyecto
+## Enlace al video del proyecto entrega 2 
 
 [Ver video en YouTube](https://youtu.be/lTnYV23ifVk)
+
+#Entrega Final
+
+## Enlace al video del proyecto final
+
+[Ver video en YouTube](https://youtu.be/5DJkBRvPAHQ) 
+
 
